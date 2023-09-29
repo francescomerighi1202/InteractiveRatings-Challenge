@@ -58,10 +58,12 @@ img {
 .rating-title {
     color: var(--white);
     font-weight: var(--fw-700);
+    font-size: 1.75rem;
 }
 
 .rating-text {
     color: var(--light-grey);
+    line-height: 1.75rem;
 }
 
 .points {
